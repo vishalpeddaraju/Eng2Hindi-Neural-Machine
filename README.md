@@ -2,7 +2,7 @@
 The Model translator English to Hindi with the help of LSTM.The project was carried out using the Kersas framework. The English sentences were encoded into feature vectors that could be trained on, and the resulting vector was decoded back into the original Hindi text.
 
 ## Dataset
-There are 62060 English phrases in the dataset, along with their Hindi translations. News portals, technical blogs, TED speeches, etc. are the areas where data is collected.
+There are 62060 English phrases in the dataset, along with their Hindi translations. News portals, technical blogs, TED Talks, etc. are the areas where data is collected.
 
 ## The Model's construction parameters
 * Establish a dictionary for both the input and output languages; 
