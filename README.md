@@ -7,8 +7,8 @@ There are 62060 English phrases in the dataset, along with their Hindi translati
 ## The Model's construction parameters
 * Establish a dictionary for both the input and output languages; 
 * Create embedding matrices.
-** The encoder and decoder models must be developed.
-** GloVe embedding’s is used here. the 100-dimensional GloVe embedding’s of 400k words computed on an English Wikipedia dump from 2014. 
+	**  The encoder and decoder models must be developed.
+	**  GloVe embedding’s is used here. the 100-dimensional GloVe embedding’s of 400k words computed on an English Wikipedia dump from 2014. 
 * make a dense layer for it.
 * The input language from the training set.
 * Display the predicated output 
